@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul{
+  list-style: none;
+  width: 100%;
+  background-color: aqua;
+}
+
+ul>li{
+  margin-inline: auto;
+}
+
+.container{
+  padding: 1rem;
+  
+  background-color: red;
+}
